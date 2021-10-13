@@ -1,4 +1,4 @@
-## Crud simples com Ring, Compojure e Jetty
+## Crud simples com Ring e Compojure
 
 ## O que?
 
